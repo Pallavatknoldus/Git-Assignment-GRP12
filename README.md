@@ -1,6 +1,6 @@
 # GIT-Assignment-GRP12
 
-Group Members:-
+## Group Members:-
 1. Pallav Gupta
 2. Prakhar Singh
 3. Rashid Ali
